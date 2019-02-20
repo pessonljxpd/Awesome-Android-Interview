@@ -24,7 +24,7 @@
     
 #### 2、Activity和Fragment生命周期有哪些？
 
-![image](https://upload-images.jianshu.io/upload_images/2893137-d63537703193a6d1.png?imageMogr2/auto-orient/)
+![image](https://img-blog.csdnimg.cn/20190220160614242.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L0FEYXJrMDkxNQ==,size_16,color_FFFFFF,t_70)
 
     
 #### 3、横竖屏切换时候Activity的生命周期
