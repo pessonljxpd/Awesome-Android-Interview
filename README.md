@@ -1,4 +1,9 @@
 # Awesome-Android-Interview
+
+> 声明：该库是从 jsonChao 的git Repository fork 来的。版权归 [jsonChao](https://github.com/JsonChao/Awesome-Android-Interview)所有。如侵权，请告知，必删。
+
+> 为方便阅读，我已经文档整理成了gitbook。
+
 A awesome  android expert interview questions and answers
 <div align="center">
 <img src="https://user-images.githubusercontent.com/30379002/46050218-6f81cc80-c0f8-11e8-9304-ac77597e0e49.jpg">
